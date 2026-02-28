@@ -1,0 +1,7 @@
+flask
+numpy
+scikit-learn
+textblob
+shap
+python-dotenv
+flask-cors
